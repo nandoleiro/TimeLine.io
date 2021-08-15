@@ -27,7 +27,7 @@
 .overlay {
   position: absolute;
   bottom: 100%;
-  background-color: #2252a4;
+  background-color:greenyellow;
   overflow: hidden;
   width: 79%;
   height: 0;
